@@ -15,7 +15,7 @@ Built by following a YouTube tutorial, with **additional features and personal i
 
 ---
 
-## 🖼️ Screenshot / Demo
+## 🖼️ Screenshot 
 ![Tic-Tac-Toe Screenshot](images/screenshot.png)  
 
 ---
